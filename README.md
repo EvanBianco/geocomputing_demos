@@ -1,11 +1,12 @@
 ### Geocomputing demos
 
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EvanBianco/geocomputing_demos.git/HEAD)
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+https://mybinder.org/v2/gh/EvanBianco/geocomputing_demos.git/HEAD
+
 
 - [Demo1](url): Small Description
 
