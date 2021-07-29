@@ -7,6 +7,9 @@ dependencies:
   - pip
   - requests
   - tqdm
+  - urllib
+  - flask
+  - h5py
   - matplotlib
   - scipy
   - numpy
@@ -17,8 +20,22 @@ dependencies:
   - ipyparallel
   - scikit-image
   - scikit-learn
+  - sympy
+  - pandas
   - pillow
+  - pint
+  - seaborn
+  - bs4
+  - zipfile
+  - geopandas
+  - shapely.geometry
+  - cartopy
+  - segysak
+  - verde
+  - xarray
+  - python-ternary
   - pip:
     - bruges
     - welly
     - wellpathpy
+    - segyio
