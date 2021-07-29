@@ -1,0 +1,24 @@
+name: geocomp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pip
+  - requests
+  - tqdm
+  - matplotlib
+  - scipy
+  - numpy
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - ipyparallel
+  - scikit-image
+  - scikit-learn
+  - pillow
+  - pip:
+    - bruges
+    - welly
+    - wellpathpy
