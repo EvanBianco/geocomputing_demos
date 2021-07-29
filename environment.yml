@@ -7,7 +7,6 @@ dependencies:
   - pip
   - requests
   - tqdm
-  - urllib
   - flask
   - h5py
   - matplotlib
@@ -26,11 +25,9 @@ dependencies:
   - pint
   - seaborn
   - bs4
-  - zipfile
   - geopandas
-  - shapely.geometry
+  - shapely
   - cartopy
-  - segysak
   - verde
   - xarray
   - python-ternary
