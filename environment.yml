@@ -1,4 +1,4 @@
-name: geocomp
+name: geocomp_demos
 channels:
   - conda-forge
   - defaults
